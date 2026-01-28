@@ -27,3 +27,5 @@ using props and render UI efficiently.
 - Vite / Create React App (mention whichever you used)
 
 ---
+## Sample
+<img width="736" height="468" alt="image" src="https://github.com/user-attachments/assets/a68779a4-6846-468c-9191-1e4cc6103954" />
